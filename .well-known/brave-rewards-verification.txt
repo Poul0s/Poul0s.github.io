@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: poul0s.github.io
+Token: f1cf11acf9ac2eca5c7030d597a141737f1bf3fffe357e9150437aba3fa4388a
